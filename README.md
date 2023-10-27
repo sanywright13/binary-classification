@@ -1,2 +1,2 @@
-# binary-classification
-train a CNN model with medmnist data 
+# Medmnist classification
+Train a CNN model with medmnist data 
